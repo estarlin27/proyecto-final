@@ -1,0 +1,19 @@
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\derli\onedrive\documentos\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\mscorlib.dll
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\es\mscorlib.resources.dll
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\normidna.nlp
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\normnfc.nlp
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\normnfd.nlp
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\normnfkc.nlp
+D:\Trabajos O&M\5to Cuatrimestre\Programacion II\Programa Final\ConsoleApplication3\bin\Debug\normnfkd.nlp
